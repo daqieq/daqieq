@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daqieq
 - 👀 I’m interested in AI.
-- 🌱 I’m currently learning Natural Language Processing.
+- 🌱 I’m currently using Natural Language Processing at work and play.
 - 💞️ I’m looking to collaborate on select NLP projects.
 - 📫 Find me @daqieq on socials.
 
